@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  postgrescluster:
+  - apiVersion: v2
+    appVersion: 5.3.0
+    created: "2022-12-30T16:12:32.08606-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 100995b2cdbb658c2fbb854ef90a7d94a86e564e70835934543f0ec06b250467
+    name: postgrescluster
+    type: application
+    urls:
+    - postgrescluster-5.3.0.tgz
+    version: 5.3.0
+generated: "2022-12-30T16:12:32.084781-05:00"
